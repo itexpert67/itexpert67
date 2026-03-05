@@ -1,84 +1,77 @@
+
+<!-- Main Heading centered with LinkedIn profile link -->
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/farooq-shah-151612294/">Farooq</a> 👋 </h1>
+
+<!-- Social Links centered under the header -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/farooq-shah-151612294/">LinkedIn</a>
+</p>
+
+<!-- Horizontal line for separation -->
+<hr>
+
+<!-- Personal details and image section -->
+🐍 Obsessed with <strong>Python</strong> — it just makes sense <br />
+🤖 Passionate about <strong>Machine Learning & AI</strong> <br />
+🧠 Always exploring how machines can think, learn, and improve <br />
+💬 Ask me about <strong>Python, ML, Deep Learning, Data Science, Neural Networks</strong> <br />
+🌱 Currently leveling up in <strong>LLMs & Generative AI</strong> <br />
+⚡ Fun fact: <strong>I debug faster with coffee than without it</strong> <br />
+👁️ Looking for <strong>open source contributions & AI projects to collaborate on</strong>
+
+<details>
+  <summary><b>🛠 Tech Stack</b></summary><br>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
+    <div style="margin-bottom: 10px;">
+      <b>Languages:</b><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>ML / AI Frameworks & Libraries:</b><br>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Tools & Platforms:</b><br>
+      <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Databases:</b><br>
+      <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="height: 20px;" />
+    </div>
+  </div>
+</details>
+
+<br>
+
+## 📊 GitHub Stats:
 <div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itexpert67&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itexpert67&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itexpert67&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itexpert67&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itexpert67&theme=radical&utcOffset=5">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Farooq+Shah+%F0%9F%91%8B;Python+%26+Data+Science+Student;Building+in+Public;Breaking+Things+%26+Fixing+Them" alt="Typing SVG" />
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=itexpert67&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="itexpert67" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=itexpert67&theme=radical" alt="itexpert67" />
 
+  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 </div>
 
----
-
-## About Me
-
-- 🐍 Currently deep into a **6-month Python & Data Science program** — building, not just watching
-- 🤝 Part of **DevSil Mentorship Community** — learning with people who are serious about it
-- 🌐 Building my personal portfolio from scratch with HTML & CSS
-- 📊 Exploring data — pandas, numpy, matplotlib, the whole pipeline
-- 🎯 Goal: become a solid data scientist and keep building real things
-- 📍 Pakistan
-
----
-
-## Skill Set
-
-<div align="center">
-
-| Languages & Web | Data Science | Tools |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-
-**Currently Learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
----
-
-## Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Farooq%20Shah-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/itexpert67)
-[![GitHub](https://img.shields.io/badge/-itexpert67-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/itexpert67)
-
-</div>
-
----
-
-## Github Stats
-
-<div align="center">
-
-![Farooq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itexpert67&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itexpert67&langs_count=8&layout=compact&theme=onedark&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itexpert67&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px)
-
-</div>
-
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itexpert67&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true)
-
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=itexpert67)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=itexpert67&style=for-the-badge&color=00D9FF)
-
-</div>
-
-## 💻 Check Out My Repos ⬇️
+<br>
